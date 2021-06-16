@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\PracticaAmerike\Practica10\Practica10\Source.cpp(146,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Practica10.vcxproj -> D:\PracticaAmerike\Practica10\Debug\Practica10.exe
